@@ -43,11 +43,11 @@ Open the "src" directory in your project. Then, open App.js and look at the code
 
 #####Step 4
 You should see a page that looks like this. Was it as you expected? Also - notice how it tells us to edit src/App.js - lets try it out and see what happens.
-![Starter Page](First_Page.PNG)
+![Starter Page](First_Page.png)
 
 #####Step 5
 Go back to the App.js file and delete the code inside of the div with the class name "App." Try adding your own HTML code inside of this div and see how it changes the website preview you were looking at earlier.
-![Delete Code](Delete_Code.PNG)
+![Delete Code](Delete_Code.png)
 
 
 #### Mini-challenges
@@ -58,4 +58,4 @@ Go back to the App.js file and delete the code inside of the div with the class 
 
 
 ## Close
-Gather student feedback
+For the final 5 minutes, allow students to share some of the reasons they found on why React is such a popular front-end web framework. This might be a good time to clarify some vocabulary the students have uncovered in their research, such as what is a "virtual DOM" or "component" or "state."
