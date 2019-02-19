@@ -8,7 +8,7 @@
 ## Sequence
 
 1. [Launch](#launch)
-2. React Setup
+2. [React Setup](#react-setup)
 4. [Close](#close)
 
 
