@@ -73,7 +73,7 @@ Open directory that contains your React project in your code editor. Find the Ap
 
 Try adding some HTML to get "Hello World" to appear on the web page instead!
 
-![Delete Code](./img/hello-world.png)
+![Hello World](./img/hello-world.png)
 
 
 
@@ -103,6 +103,7 @@ Go back to the App.js file and delete the code inside of the div with the class 
 
 Try adding some HTML to get "Hello World" to appear on the web page instead!
 
+![Hello World](./img/hello-world.png)
 
 #### Mini-challenges
 * Add an h1 tag with the text "About YOUR_NAME" within the div with the class "App." Obviously, replace YOUR_NAME with your actual name.
