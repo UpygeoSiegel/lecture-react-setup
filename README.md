@@ -37,7 +37,7 @@ First you need to check if you have Node installed on your computer. You can che
 npm -v
 ```
 
-You should Node 5.2 or higher installed. If it tells you Node is not installed please go to https://nodejs.org and installed the latest version.
+You should have Node 5.2 or higher installed. If it tells you Node is not installed please go to https://nodejs.org and installed the latest version.
 
 #### Step 2
 Once Node is installed, run each of the following lines of code in your terminal:
@@ -47,7 +47,7 @@ npx create-react-app first-react-app
 cd my-app
 ```
 
-The first command tells node where to find the files on the internet to create a new React project and install those files on your computer. You will see we also typed in "first-react-app" - this will be the name of the project we created as well as the directory where the files are installed. You can name this file anything as long as there are no spaces or special characters. We could have named it "cat-lover-website" or "best_dressed_robots".
+The first command tells node where to find the files on the internet to create a new React project and install those files on your computer. You will see we also typed in "first-react-app". This will be the name of the project we create as well as the directory where the files are installed. You can name this project anything as long as there are no spaces or special characters. We could have named it "cat-lovers-website" or "best_dressed_robots".
 
 #### Step 3
 Type the following line of code into your terminal:
@@ -60,14 +60,14 @@ This command tells Node to begin running the React program we have created. You 
 
 ![npm start](../img/npm-start.PNG)
 
-As instructed, lets view our app using the local link provided. Open your browser and visit http://localhost:3000/ (or whatever address is provided in your terminal) to see what our React application looks like.
+As instructed, lets view our app using the link provided. Open your browser and visit http://localhost:3000/ (or whatever address is provided in your terminal) to see what our React application looks like.
 
 #### Step 4
 You should see a page that looks like this. Pretty cool, right? Also - notice how it tells us to edit src/App.js - lets try it out and see what happens.
 ![Starter Page](../img/First_Page.png)
 
 #### Step 5
-Open directory that contains your React project in your code editor. Find the App.js file in the src/ directory. Delete the code inside of the div with the class name "App."
+Open directory that contains your React project in your code editor. Find the App.js file in the "src" directory. Delete the code inside of the div with the class name "App."
 
 ![Delete Code](../img/Delete_Code.png)
 
