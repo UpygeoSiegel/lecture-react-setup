@@ -114,7 +114,5 @@ Try adding some HTML to get "Hello World" to appear on the web page instead!
 ## Close
 Pose the questions below for a quick discussion. As always, collect student feedback at the end of the lesson.
 
-##### Questions
-* Do you think that every time a user signs up for Facebook, an engineer at Facebook must program a new user page? If not, what do you think happens?
-
-* Based on the answer to the question above, name a website you found that is built with React and explain why they might have used React to build their website.
+##### Question
+* Do you think that every time a user signs up for Facebook an engineer at Facebook must program a new user page? If not, what do you think happens?
