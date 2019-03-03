@@ -8,8 +8,8 @@
 ## Sequence
 
 1. [Launch](#launch)
-2. React Setup Local
-3. Rect Setup Goorm
+2. [React Setup - Local](#local)
+3. [Rect Setup - Goorm](#Goorm)
 4. [Close](#close)
 
 
