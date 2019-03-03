@@ -17,7 +17,7 @@
 React is one the most popular frameworks used today for front-end development. React was developed by Facebook to simplify the process of building a large, complex web-application.
 Before we get started learning how to build our own React application, lets try and find some other website that are built with React. Try and find as many sites as you can in the next 5 minutes (try and find less known websites that use React). Write them down - we will use this list later!
 
-![Logo](../img/React_Logo.png)
+![Logo](./img/React_Logo.png)
 
 #### Questions for Students
  > * What are five websites you found that use React?
@@ -58,22 +58,22 @@ npm start
 
 This command tells Node to begin running the React program we have created. You should see the following message in your terminal:
 
-![npm start](../img/npm-start.PNG)
+![npm start](./img/npm-start.PNG)
 
 As instructed, lets view our app using the link provided. Open your browser and visit http://localhost:3000/ (or whatever address is provided in your terminal) to see what our React application looks like.
 
 #### Step 4
 You should see a page that looks like this. Pretty cool, right? Also - notice how it tells us to edit src/App.js - lets try it out and see what happens.
-![Starter Page](../img/First_Page.png)
+![Starter Page](./img/First_Page.png)
 
 #### Step 5
 Open directory that contains your React project in your code editor. Find the App.js file in the "src" directory. Delete the code inside of the div with the class name "App."
 
-![Delete Code](../img/Delete_Code.png)
+![Delete Code](./img/Delete_Code.png)
 
 Try adding some HTML to get "Hello World" to appear on the web page instead!
 
-![Delete Code](../img/hello-world.png)
+![Delete Code](./img/hello-world.png)
 
 
 
@@ -81,31 +81,31 @@ Try adding some HTML to get "Hello World" to appear on the web page instead!
 
 #### Step 1
 Create a new container in Goorm.
-![Goorm](../img/Container.PNG)
+![Goorm](./img/Container.PNG)
 
 #### Step 2
 Choose React as your software stack.
-![Choose React](../img/Choose_React.PNG)
+![Choose React](./img/Choose_React.PNG)
 
 #### Step 3
 Open the "src" directory in your project. Then, open App.js and look at the code written in the file. This file contains the code on what the user will see. Take a guess what you might see when you run this code. Then, run the code by clicking the "Run" button from the top of the menu. After you press "Run" a link will appear on the lower right side of your screen. Copy that link into a new tab and take a look!
-![Run Project](../img/Run_Command.PNG)
+![Run Project](./img/Run_Command.PNG)
 
 
 #### Step 4
 You should see a page that looks like this. Was it as you expected? Also - notice how it tells us to edit src/App.js - lets try it out and see what happens.
-![Starter Page](../img/First_Page.png)
+![Starter Page](./img/First_Page.png)
 
 #### Step 5
 Go back to the App.js file and delete the code inside of the div with the class name "App."
 
-![Delete Code](../img/Delete_Code.png)
+![Delete Code](./img/Delete_Code.png)
 
 Try adding some HTML to get "Hello World" to appear on the web page instead!
 
 Try adding some HTML to get "Hello World" to appear on the web page instead!
 
-![Delete Code](../img/hello-world.png)
+![Delete Code](./img/hello-world.png)
 
 #### Mini-challenges
 * Add an h1 tag with the text "About YOUR_NAME" within the div with the class "App." Obviously, replace YOUR_NAME with your actual name.
