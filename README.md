@@ -36,6 +36,7 @@ Now that we have seen some of the features of React in action, it's time to setu
 ### Stay Calm
 When you first set up a React project you will see tons of files installed in your file tree. Don't worry! Most of these files you will never need to look at. They are created automatically, and are there to translate the code you write to code the browser can read. If we focus on the basics, React can actually be very easy to use, even when you're first getting started.
 
+<a id="local"></a>
 ## Local Setup
 
 #### Step 1
