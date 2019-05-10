@@ -9,25 +9,34 @@
 
 1. [Launch](#launch)
 2. [React Setup - Local](#local)
-3. [Rect Setup - Goorm](#Goorm)
+3. [Rect Setup - Goorm](goorm.md)
 4. [Close](#close)
 
 
 ## Launch
 React is one the most popular frameworks used today for front-end development. React was developed by Facebook to simplify the process of building a large, complex web-application.
-Before we get started learning how to build our own React application, lets try and find some other website that are built with React. Try and find as many sites as you can in the next 5 minutes (try and find less known websites that use React). Write them down - we will use this list later!
+Before we get started learning how to build our own React application, lets try and find some other website that are built with React. There are lots of lists online just like this [list of sites built with React](https://www.quora.com/Which-are-the-top-10-sites-built-with-ReactJS). Consult this list or another one like it, and see which of the sites using React.js you've used before.
+
+Pick your favorite site you can find using React.js, visit that site, and write down your answers to these questions about the site:
+1. How long did it take this site to load?
+2. Facebook repeats lots of high-level elements like posts, ads, notifications, etc. Are there any repeated or similar elements on the React.js site you picked?
+3. Can you click on parts of the site that change the content of the page *without* changing which page you're on?
 
 ![Logo](./img/React_Logo.png)
 
 #### Questions for Students
- > * What are five websites you found that use React?
+> * What website did you focus on?
+> * How quickly did your site load?
+> * Where there repeated or similar elements on your site?
+> * Did you find click interactions that didn't load new pages?
 
 ## React Setup
-Now that we have a list of websites that use React, it's time to setup our first React project!
+Now that we have seen some of the features of React in action, it's time to setup our first React project!
 
 ### Stay Calm
-When you first set up a React project you will see tons of files installed in your file tree. Don't worry! Most of these files you will never need to look at. They are there to translate the code you write to code the browser can read. React is actually very easy to use as you will soon see. I promise!
+When you first set up a React project you will see tons of files installed in your file tree. Don't worry! Most of these files you will never need to look at. They are created automatically, and are there to translate the code you write to code the browser can read. If we focus on the basics, React can actually be very easy to use, even when you're first getting started.
 
+<a id="local"></a>
 ## Local Setup
 
 #### Step 1
@@ -76,43 +85,13 @@ Try adding some HTML to get "Hello World" to appear on the web page instead!
 ![Hello World](./img/hello-world.png)
 
 
-
-## Goorm Setup
-
-#### Step 1
-Create a new container in Goorm.
-![Goorm](./img/Container.PNG)
-
-#### Step 2
-Choose React as your software stack.
-![Choose React](./img/Choose_React.PNG)
-
-#### Step 3
-Open the "src" directory in your project. Then, open App.js and look at the code written in the file. This file contains the code on what the user will see. Take a guess what you might see when you run this code. Then, run the code by clicking the "Run" button from the top of the menu. After you press "Run" a link will appear on the lower right side of your screen. Copy that link into a new tab and take a look!
-![Run Project](./img/Run_Command.PNG)
-
-
-#### Step 4
-You should see a page that looks like this. Was it as you expected? Also - notice how it tells us to edit src/App.js - lets try it out and see what happens.
-![Starter Page](./img/First_Page.png)
-
-#### Step 5
-Go back to the App.js file and delete the code inside of the div with the class name "App."
-
-![Delete Code](./img/Delete_Code.png)
-
-Try adding some HTML to get "Hello World" to appear on the web page instead!
-
-![Hello World](./img/hello-world.png)
-
 #### Mini-challenges
 * Add an h1 tag with the text "About YOUR_NAME" within the div with the class "App." Obviously, replace YOUR_NAME with your actual name.
 * Create a short About Me page. This page should include your favorite quote, your nick name, and a list of activities you enjoy.
 * Extension - Style the page using the index.css file
 
-
 ## Close
 Pose the questions below for a quick discussion. As always, collect student feedback at the end of the lesson.
 
 ##### Question
-* Do you think that every time a user signs up for Facebook an engineer at Facebook must program a new user page? If not, what do you think happens?
+* Do you think that every time a user signs up for Facebook, an engineer at Facebook must program a new user page? If not, what do you think happens?
